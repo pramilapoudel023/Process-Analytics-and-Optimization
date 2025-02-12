@@ -13,17 +13,17 @@ By leveraging **Odoo ERP** for **Order-to-Cash and Procure-to-Pay processes**, t
 ## 📌 Steps Followed in the Project  
 
 ### **Phase 1: Business Process Analysis (Understanding the Business & Operations)**  
-##### Step 1: Research & Understand the Business**  
+##### Step 1: Research & Understand the Business  
 - Collected details about **Geeland International Grocery** (industry, competitors, market positioning).  
 - Mapped out business goals and operational challenges.  
 
-##### Step 2: Define Business Strategy**  
+##### Step 2: Define Business Strategy  
 - Developed a **Business Motivation Model (BMM)** to define vision, mission, and goals.  
 - Created a **Business Model Canvas** to analyze value propositions, customers, and key partners.  
 - Mapped a **Value System Model** to identify core and supporting business activities.  
 - Conducted **Capability Analysis** to assess business strengths and weaknesses.  
 
-##### Step 3: Identify Key Business Processes**  
+##### Step 3: Identify Key Business Processes  
 - Mapped high-level business processes:  
   - **Order-to-Cash (O2C)** → Sales & customer transactions.  
   - **Procure-to-Pay (P2P)** → Supplier procurement & inventory management.  
@@ -33,22 +33,22 @@ By leveraging **Odoo ERP** for **Order-to-Cash and Procure-to-Pay processes**, t
 ---  
 
 ### **Phase 2: Database Design (Structuring Data for Digital Transformation)**  
-##### Step 4: Identify Key Entities & Data Relationships**  
+##### Step 4: Identify Key Entities & Data Relationships  
 - Defined core entities: **Products, Suppliers, Customers, Transactions, Employees, Orders**.  
 - Created an **Entity Relationship Diagram (ERD)** to visualize data relationships.  
 
-##### Step 5: Design Database Tables**  
+##### Step 5: Design Database Tables 
 - Developed structured tables for efficient data storage.  
 - Ensured **normalization for data consistency and integrity**.  
 
 ---  
 
 ### **Phase 3: MIS Selection & Implementation Strategy**  
-##### Step 6: Selection of Management Information Systems (MIS)**  
+##### Step 6: Selection of Management Information Systems (MIS)
 - Evaluated **Odoo ERP** for Order-to-Cash and Procure-to-Pay process automation.  
 - Compared different platforms and justified selection criteria.  
 
-##### Step 7: Identify & Configure MIS Modules**  
+##### Step 7: Identify & Configure MIS Modules 
 
 **Odoo Modules Implemented:**  
 - **Point of Sale (POS)** → Streamlines checkout & payment processing.  
@@ -60,12 +60,12 @@ By leveraging **Odoo ERP** for **Order-to-Cash and Procure-to-Pay processes**, t
 ---  
 
 ### **Phase 4: Execution & Demo Documentation**  
-##### Step 8: Implement & Test the Odoo ERP System**  
+##### Step 8: Implement & Test the Odoo ERP System
 - Installed **Odoo** and configured **POS** for grocery operations.  
 - Integrated **Inventory Management** to sync stock levels.  
 - Tested **Order Processing workflow** (placing orders, payments, and invoicing).  
 
-##### Step 9: Document & Present Findings**  
+##### Step 9: Document & Present Findings
 - Created **Demo Documentation** with step-by-step implementation.  
 - Prepared **Final Presentation** summarizing business problems, solutions, and results.  
 
@@ -84,4 +84,4 @@ By leveraging **Odoo ERP** for **Order-to-Cash and Procure-to-Pay processes**, t
 3️⃣ **Check `Project Presentation.pptx`** for a high-level project summary.  
 
 ---
-#### This project was developed for academic purposes to explore the implementation of Management Information Systems (MIS) in real-world business operations, utilizing Odoo ERP for process automation and business optimization.
+#### This project was developed as a group project for academic purposes to explore the implementation of Management Information Systems (MIS) in real-world business operations, utilizing Odoo ERP for process automation and business optimization.
