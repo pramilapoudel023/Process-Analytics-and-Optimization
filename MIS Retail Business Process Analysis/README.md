@@ -74,14 +74,7 @@ By leveraging **Odoo ERP** for **Order-to-Cash and Procure-to-Pay processes**, t
 ## Project Files  
   📜 `Project Proposal.pdf` → Business process analysis, database design, and MIS selection.  
   📜 `Project Documentation.pdf` → Step-by-step execution of Odoo implementation.  
-  📜 `Project Presentation.pptx` → Key findings, solutions, and demo overview.  
-
----  
-
-## How to Use This Repository  
-  1️⃣ **Review `Project Proposal.pdf`** for business process analysis and database design.  
-  2️⃣ **Explore `Project Documentation.pdf`** for a step-by-step implementation guide.  
-  3️⃣ **Check `Project Presentation.pptx`** for a high-level project summary.  
+  📜 `Project Presentation.pdf` → Key findings, solutions, and demo overview.  
 
 ---
 #### This project was developed as a group project for academic purposes to explore the implementation of Management Information Systems (MIS) in real-world business operations, utilizing Odoo ERP for process automation and business optimization.
